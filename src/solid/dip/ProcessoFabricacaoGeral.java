@@ -11,5 +11,26 @@ package solid.dip;
  *
  */
 public class ProcessoFabricacaoGeral {
-    
+    private void montagem(){
+	
+	}
+	private void testeProduto(){
+	
+	}
+	private void embalagem(){
+	
+	}
+	private void armazenamento(){
+
+	}
+	;
+
+	public void processoFabricacaoGeral(){
+		montagem();
+		testeProduto();
+		embalagem();
+		armazenamento();
+	}
+
+
 }
