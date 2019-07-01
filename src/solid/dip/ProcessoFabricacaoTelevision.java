@@ -10,7 +10,7 @@ package solid.dip;
  * @author 
  *
  */
-public class ProcessoFabricacaoSmatPhone extends ProcessoFabricacaoGeral  {
+public class ProcessoFabricacaoTelevision extends ProcessoFabricacaoGeral  {
     
 	@Override
 	protected void montagem(){
